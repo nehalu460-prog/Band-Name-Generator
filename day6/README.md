@@ -14,4 +14,4 @@ Guess the word:
 
 _ _ _ _ _
 
-Enter a letter:`
+Enter a letter:
