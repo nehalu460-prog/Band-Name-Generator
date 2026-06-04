@@ -24,8 +24,8 @@ print(programming_language)
 
 # 3
 fruits = {
-    "fruit": ["Apple", "Mango", "Banana", "Orange", "Grapes"],
-    "vegatables":["bhandi","ladyfinger"]
+    "fruit": ["Apple", "Mango", "Banana", "Orange", "Grapes","Kiwi"],
+    "vegatables":["bhandi","ladyfinger","Tamatar"]
 }
 
 print(fruits)

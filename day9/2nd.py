@@ -19,7 +19,7 @@ print(student_grades)
 #2 nested list
 students = {
     "student1": {
-        "name": "Saksham",
+        "name": "abhinav",
         "age": 20
     },
     "student2": {
