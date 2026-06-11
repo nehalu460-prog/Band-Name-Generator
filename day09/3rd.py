@@ -17,6 +17,7 @@ capitals = {
 
 # Nested List in Dictionary
 
+
 # travel_log = {
 #     "France": ["Paris", "Lille", "Dijon"],
 #     "Germany": ["Stuttgart", "Berlin"],
