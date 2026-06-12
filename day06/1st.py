@@ -1,32 +1,18 @@
 import random
 
-word = random.choice(["cat", "dog", "sun"])
-guessed = ""
-chances = 5
+# Generate a random number between 1 and 100
+secret_number = random.randint(1, 100)
 
-print("Welcome to Hangman!")
+print("Welcome to the Number Guessing Game!")
+print("Guess a number between 1 and 100")
 
-while chances > 0:
-    display = ""
+while True:
+    guess = int(input("Enter your guess: "))
 
-    for letter in word:
-        if letter in guessed:
-            display += letter
-        else:
-            display += "_"
-
-    print("Word:", display)
-
-    if display == word:
-        print("You Win 🎉")
+    if guess < secret_number:
+        print("Too low! Try again.")
+    elif guess > secret_number:
+        print("Too high! Try again.")
+    else:
+        print("Correct! You guessed the number.")
         break
-
-    guess = input("Enter a letter: ")
-    guessed += guess
-
-    if guess not in word:
-        chances -= 1
-        print("Wrong! Chances left:", chances)
-
-if chances == 0:
-    print("You Lose 💀 Word was:", word)

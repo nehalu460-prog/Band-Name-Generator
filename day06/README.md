@@ -1,17 +1,19 @@
-# Word Guessing Game
+# Number Guessing Game 🎯
 
-This is my Day 7 Python project.
+This is my Day 6 Python project.
 
 ## Features
-- Random word selection
-- User guesses letters
-- Limited lives system
-- Win or lose gameplay
+- Random number generation
+- User enters guesses
+- Hint system (Too High / Too Low)
+- Win when correct number is guessed
 
 ## Example
 
-Guess the word:
+Guess a number between 1 and 100:
 
-_ _ _ _ _
+Enter your guess: 45  
+Too Low!
 
-Enter a letter:
+Enter your guess: 72  
+Correct! 🎉
