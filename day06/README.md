@@ -16,4 +16,4 @@ Enter your guess: 45
 Too Low!
 
 Enter your guess: 72  
-Correct! 🎉
+Correct! 
