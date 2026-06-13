@@ -1,4 +1,4 @@
-# Day 10 - Simple Calculator Project
+# Simple Calculator Project
 
 This is my Day 10 Python project.
 
