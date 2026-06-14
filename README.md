@@ -74,7 +74,7 @@ Each folder contains the code, exercises, and projects completed on that specifi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/100-days-of-code.git
+git clone https://github.com/nehalu460-prog/100-days-of-code.git
 ```
 
 ### Navigate to the Project
