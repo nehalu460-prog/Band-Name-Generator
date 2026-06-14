@@ -1,5 +1,4 @@
 # 🐍 100 Days of Code – Python Bootcamp Projects
-# 🐍 100 Days of Code – Python Bootcamp Journey
 
 This repository documents my progress through the **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
