@@ -74,13 +74,13 @@ Each folder contains the code, exercises, and projects completed on that specifi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nehalu460-prog/100-days-of-code.git
+git clone https://github.com/nehalu460-prog/python-programs.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd 100-days-of-code
+cd python-programs
 ```
 
 ### Run a Python File
