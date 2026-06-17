@@ -14,7 +14,6 @@ def divide(a, b):
         return "Cannot divide by zero"
     return a / b
 
-
 print("Simple Calculator")
 print("1. Add")
 print("2. Subtract")
