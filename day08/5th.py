@@ -5,7 +5,7 @@
 #        print(letter, "=", name.count(letter))
        
 #    name2 = " "
-#    name = "Nehal"
+#    name = " "
 
 #    for letter in name2:
 #        print(letter, "=", name.count(letter))
