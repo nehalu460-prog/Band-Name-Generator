@@ -10,7 +10,7 @@
 #    for letter in name2:
 #        print(letter, "=", name.count(letter))
 
-# calculate_love_score(name1="Nehal",name2="Tanisha")
+# calculate_love_score(name1="snavi",name2="Tejas")
 def calculate_love_score(name1, name2):
     combined_names = name1 + name2
     lower_names = combined_names.lower()
