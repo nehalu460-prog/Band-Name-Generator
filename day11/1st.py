@@ -8,7 +8,6 @@ def deal_card():
     card = random.choice(cards)
     return card
 
-
 def calculate_score(cards):
     """Take a list of cards and return the score calculated from the cards"""
     if sum(cards) == 21 and len(cards) == 2:
@@ -19,7 +18,6 @@ def calculate_score(cards):
         cards.append(1)
 
     return sum(cards)
-
 
 def compare(u_score, c_score):
     """Compares the user score u_score against the computer score c_score."""
@@ -37,7 +35,6 @@ def compare(u_score, c_score):
         return "You win "
     else:
         return "You lose "
-
 
 def play_game():
     print(logo)
