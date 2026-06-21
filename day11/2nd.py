@@ -33,4 +33,3 @@ elif 76 <= score <= 90:
     print("💞 Soulmate vibes!")
 else:
     print("🤔 Love is mysterious, keep exploring!")
-# hlll piiiuu
