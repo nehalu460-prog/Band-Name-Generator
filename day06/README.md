@@ -1,19 +1,20 @@
-# Number Guessing Game 🎯
+# Love Calculator 💕
 
 This is my Day 6 Python project.
 
 ## Features
-- Random number generation
-- User enters guesses
-- Hint system (Too High / Too Low)
-- Win when correct number is guessed
+
+* Takes two names as input
+* Counts the letters in **TRUE** and **LOVE**
+* Generates a fun love score
+* Displays a custom message based on the score
+* Beginner-friendly Python project
 
 ## Example
 
-Guess a number between 1 and 100:
+Enter first name: Jack
+Enter second name: Rose
 
-Enter your guess: 45  
-Too Low!
+Your Love Score is 85%
 
-Enter your guess: 72  
-Correct! 
+💞 Soulmate vibes!
