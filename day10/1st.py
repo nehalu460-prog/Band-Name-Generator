@@ -1,6 +1,5 @@
 # first_name = input("Enter first Name:")
 # last_name = input("ENter last Name :") #ye print nhi ho rha input le rha per output ni denga   
-#  
 def my_function(first_name,last_name):
     final1_name = first_name.title()
     final2_name = last_name.title()
